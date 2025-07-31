@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mil.army.def | Serving with Honor & Strength</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <h1>Welcome to Mil.army.def</h1>
+      <p>Serving with Honor & Strength</p>
+      <div class="btn-group">
+        <a href="#join" class="btn">Join Us</a>
+        <a href="#news" class="btn">Latest News</a>
+        <a href="#contact" class="btn">Contact</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="about" id="about">
+      <h2>Our Mission</h2>
+      <p>Mil.army.def is dedicated to honoring the brave men and women serving our nation. Learn about our history, leadership, and core values.</p>
+      <a href="#about" class="btn">Learn More</a>
+    </section>
+
+    <section class="news" id="news">
+      <h2>News Highlights</h2>
+      <div class="news-grid">
+        <article class="news-item">
+          <h3>New Training Program Launches</h3>
+          <time datetime="2025-03-10">March 10, 2025</time>
+          <p>Innovative training to prepare soldiers for future challenges.</p>
+          <a href="#">Read More</a>
+        </article>
+        <article class="news-item">
+          <h3>Veterans Support Initiative</h3>
+          <time datetime="2025-02-25">February 25, 2025</time>
+          <p>Enhanced services to support our veterans’ well-being.</p>
+          <a href="#">Read More</a>
+        </article>
+        <article class="news-item">
+          <h3>Annual Armed Forces Day Event</h3>
+          <time datetime="2025-04-05">April 5, 2025</time>
+          <p>Join us in celebrating our heroes at the upcoming event.</p>
+          <a href="#">Read More</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="resources" id="resources">
+      <h2>Resources & Support</h2>
+      <ul class="resource-list">
+        <li><a href="#">Enlistment FAQs</a></li>
+        <li><a href="#">Benefits & Education</a></li>
+        <li><a href="#">Family Support Services</a></li>
+        <li><a href="#">Media Gallery</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer id="contact">
+    <p>© 2025 Mil.army.def | <a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+    <p>Contact: <a href="mailto:info@mil.army.def">info@mil.army.def</a></p>
+    <p>
+      Follow us on 
+      <a href="#">Facebook</a> | 
+      <a href="#">Twitter</a> | 
+      <a href="#">Instagram</a>
+    </p>
+  </footer>
+</body>
+</html>
